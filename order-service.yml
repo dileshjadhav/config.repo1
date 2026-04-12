@@ -7,4 +7,4 @@ datasource:
 jpa:
     hibernate:
              ddl-auto: none
-              show-sql: false
+     show-sql: false
