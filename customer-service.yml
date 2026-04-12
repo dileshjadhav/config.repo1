@@ -3,8 +3,8 @@ spring:
                name: customer-service
 datasource:
            url: jdbc:mysql://localhost:3306/customer_master
-           driver-Class-Name: com.mysql.cj.jdbc.Driver
+           driver-class-name: com.mysql.cj.jdbc.Driver
 jpa:
     hibernate:
              ddl-auto: none
-              show-sql: false
+    show-sql: false
