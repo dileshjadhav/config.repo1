@@ -11,4 +11,4 @@ global:
               jpa:
                   hibernate:
                            ddl-auto: update
-                            showsql: true
+                            show-sql: true
