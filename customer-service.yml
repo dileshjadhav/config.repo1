@@ -6,5 +6,5 @@ datasource:
            driverClassName: com.mysql.cj.jdbc.Driver
 jpa:
     hibernate:
-             ddl-auto:none
-              show-sql:false
+             ddl-auto: none
+              show-sql: false
